@@ -30,4 +30,5 @@ Contributions of additional **publicly shareable** security resources are welcom
 2. Include clear source attribution
 3. Submit via Pull Request
 
-*Last Updated: {DATE}*
+Regards
+Kuldeep Kumar Jha
